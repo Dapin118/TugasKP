@@ -21,7 +21,7 @@
                class="text-gray-800 hover:text-blue-600 transition-colors duration-300 font-medium">
                Layanan
             </a>
-            <a href="{{ route('blog') }}" 
+            <a href="{{ route('blog.index') }}" 
                class="text-gray-800 hover:text-blue-600 transition-colors duration-300 font-medium">
                Blog
             </a>
@@ -56,7 +56,7 @@
                class="block text-gray-800 hover:text-blue-600 transition-colors duration-300">
                Layanan
             </a>
-            <a href="{{ route('blog') }}" 
+            <a href="{{ route('blog.index') }}" 
                class="block text-gray-800 hover:text-blue-600 transition-colors duration-300">
                Blog
             </a>
